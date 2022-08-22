@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Morning Walk",
+      "day": "Monday, 6am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Read Book",
+      "day": "Monday, 10pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "MS Meeting",
+      "day": "Tuesday, 11am",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Cricket Match",
+      "day": "Friday, 7pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
